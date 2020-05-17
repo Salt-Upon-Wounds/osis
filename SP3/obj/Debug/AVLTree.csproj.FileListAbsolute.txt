@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\AVLTree\bin\Debug\AVLTree.exe.config
+C:\Users\User\source\repos\AVLTree\bin\Debug\AVLTree.exe
+C:\Users\User\source\repos\AVLTree\bin\Debug\AVLTree.pdb
+C:\Users\User\source\repos\AVLTree\obj\Debug\AVLTree.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AVLTree\obj\Debug\AVLTree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AVLTree\obj\Debug\AVLTree.exe
+C:\Users\User\source\repos\AVLTree\obj\Debug\AVLTree.pdb
+E:\repos\AVLTree\bin\Debug\AVLTree.exe.config
+E:\repos\AVLTree\bin\Debug\AVLTree.exe
+E:\repos\AVLTree\bin\Debug\AVLTree.pdb
+E:\repos\AVLTree\obj\Debug\AVLTree.csprojAssemblyReference.cache
+E:\repos\AVLTree\obj\Debug\AVLTree.exe
+E:\repos\AVLTree\obj\Debug\AVLTree.pdb
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\bin\Debug\AVLTree.exe.config
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\bin\Debug\AVLTree.exe
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\bin\Debug\AVLTree.pdb
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\obj\Debug\AVLTree.csprojAssemblyReference.cache
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\obj\Debug\AVLTree.exe
+E:\Sorted\study 2nd course\2 sem\АИСД\AVLTree\obj\Debug\AVLTree.pdb

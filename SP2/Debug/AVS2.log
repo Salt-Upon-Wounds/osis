@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AVS2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SP2.cpp
+C:\Users\Пользователь\source\repos 19-20-1\SP2\SP2.cpp(48,56): warning C4244: =: преобразование "LONGLONG" в "ULONG", возможна потеря данных
+C:\Users\Пользователь\source\repos 19-20-1\SP2\SP2.cpp(12,59): warning C4101: ClCount: неиспользованная локальная переменная
+C:\Users\Пользователь\source\repos 19-20-1\SP2\SP2.cpp(12,36): warning C4101: ClusterSize: неиспользованная локальная переменная
+C:\Users\Пользователь\source\repos 19-20-1\SP2\SP2.cpp(12,49): warning C4101: FileSize: неиспользованная локальная переменная
+C:\Users\Пользователь\source\repos 19-20-1\SP2\SP2.cpp(21,61): warning C4101: i: неиспользованная локальная переменная
+  AVS2.vcxproj -> C:\Users\Пользователь\source\repos 19-20-1\SP2\Debug\SP2.exe

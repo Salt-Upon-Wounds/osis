@@ -1,0 +1,9 @@
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\bin\Debug\SP13.exe.config
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\bin\Debug\SP13.exe
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\bin\Debug\SP13.pdb
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.Form1.resources
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.exe
+C:\Users\Пользователь\Desktop\labs\OSIS\SP13\obj\Debug\SP13.pdb

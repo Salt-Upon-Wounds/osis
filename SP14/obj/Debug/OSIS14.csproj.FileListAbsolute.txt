@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\OSIS14\bin\Debug\OSIS14.exe.config
+C:\Users\Пользователь\source\repos\OSIS14\bin\Debug\OSIS14.exe
+C:\Users\Пользователь\source\repos\OSIS14\bin\Debug\OSIS14.pdb
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.Form1.resources
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.exe
+C:\Users\Пользователь\source\repos\OSIS14\obj\Debug\OSIS14.pdb
